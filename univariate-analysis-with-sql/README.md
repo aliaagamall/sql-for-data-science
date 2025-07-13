@@ -6,6 +6,7 @@ This folder contains resources and scripts for performing univariate analysis on
 
 - **univariate-analysis.md**: A comprehensive guide explaining how to perform univariate analysis with SQL, including step-by-step queries, explanations, and beautifully formatted output tables.
 - **SQLQuery.sql**: SQL scripts to create the table, insert data, and execute the analysis, organized with comments and expected outputs.
+- **univariate-analysis-report.md**: To learn how to simply make report from insights you get from analysis performed.
 
 ## Getting Started
 
