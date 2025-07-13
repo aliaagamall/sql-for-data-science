@@ -7,7 +7,7 @@ Welcome to the `sql-for-data-science` repository👋
 ## Structure
 
 - `data-cleaning-with-sql/`: Contains scripts and examples for data cleaning with SQL.
-- \[Add more folders for other topics as needed!\]
+- \[Add more folders for other topics\]
 
 ## Getting Started
 
