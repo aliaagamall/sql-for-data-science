@@ -137,10 +137,10 @@ SELECT registration_date, registration_date_clean
 FROM CustomerInfo;
 
 -- 17. Identify duplicate rows
--- Finds duplicate rows based on key columns, ignoring case for full_name and email.
+-- Finds duplicate rows.
 SELECT 
-    LOWER(TRIM(full_name)) AS full_name,
-    LOWER(email) AS email,
+    full_name,
+    email,
     phone,
     registration_date,
     age,
